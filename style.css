@@ -1,0 +1,95 @@
+html{
+    height: 100%;
+}
+.home-menu-item {
+    color: rgba(8, 1, 1, 0.986);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid #a8b1b6ea;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+    
+    }
+    #home-image{
+        width: auto;
+        display: block;
+        margin: auto;
+        padding: 55px;
+    }
+    .home-menu{
+        background-image: url("images/rf.png");
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat:no-repeat;
+        background-size: cover ;
+    }
+    /****************** STARTERS ******************/
+    .starters H4{
+        font-size: 25px;
+        padding: 5px;
+        color: rgba(8, 1, 1, 0.986);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        text-align: right;
+        border: 5px solid #a8b1b6ea;
+        display: block;
+        margin: auto;
+        margin-bottom: 10px;
+        width: 80%;
+      
+    }
+    /****************** MEALS ******************/
+    .meals H4{
+        font-size: 25px;
+        padding: 5px;
+        color: rgba(8, 1, 1, 0.986);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        text-align: right;
+        border: 5px solid #a8b1b6ea;
+        display: block;
+        margin: auto;
+        margin-bottom: 10px;
+        width: 80%;
+      
+    }
+    .desserts H4{
+        font-size: 25px;
+        padding: 5px;
+        color: rgba(8, 1, 1, 0.986);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        text-align: right;
+        border: 5px solid #a8b1b6ea;
+        display: block;
+        margin: auto;
+        margin-bottom: 10px;
+        width: 80%;
+    }
+    .drinks H4{
+        font-size: 25px;
+        padding: 5px;
+        color: rgba(8, 1, 1, 0.986);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        text-align: right;
+        border: 5px solid #a8b1b6ea;
+        display: block;
+        margin: auto;
+        margin-bottom: 10px;
+        width: 80%;
+    }
+
+@media(min-width :700px){
+    p{
+        font-size: 0.9rem;
+    }
+    h4{
+        font-size: ;
+    }
+
+}
