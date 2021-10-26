@@ -1,5 +1,6 @@
 .home-menu-item {
     color: rgba(145, 57, 57, 0.986);
+    background-image: url("images/rf.png");
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
     font-weight: bold;
