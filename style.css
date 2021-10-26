@@ -46,7 +46,7 @@ html{
     .meals H4{
         font-size: 25px;
         padding: 5px;
-        color: rgba(8, 1, 1, 0.986);
+        color: rgb(248, 247, 247);
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bold;
         text-align: right;
@@ -87,6 +87,7 @@ html{
 @media(min-width :700px){
     p{
         font-size: 0.9rem;
+    
     }
     h4{
         font-size: 1.7rem ;
